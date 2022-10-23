@@ -11,11 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/KSoto18/Write-My-Readme.git"
   },
-  "keywords": ["readme", "generator", "write"],
+  "keywords": [
+    "readme",
+    "generator",
+    "write"
+  ],
   "author": "Khris Soto",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/KSoto18/Write-My-Readme/issues"
   },
-  "homepage": "https://github.com/KSoto18/Write-My-Readme#readme"
+  "homepage": "https://github.com/KSoto18/Write-My-Readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
