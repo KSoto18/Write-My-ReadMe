@@ -1,0 +1,21 @@
+{
+  "name": "write-my-readme",
+  "version": "1.0.0",
+  "description": "A readme generator created using node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSoto18/Write-My-Readme.git"
+  },
+  "keywords": ["readme", "generator", "write"],
+  "author": "Khris Soto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KSoto18/Write-My-Readme/issues"
+  },
+  "homepage": "https://github.com/KSoto18/Write-My-Readme#readme"
+}
