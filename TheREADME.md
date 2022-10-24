@@ -31,6 +31,6 @@
 
    ## Questions
    For any additional questions, you can contact me at:
-    <p> GitHub: [KSoto18](https://github.com/KSoto18)</p>
-    <p> Email: [Khris@no.com](mailto:Khris@no.com)</p>
+    <p> GitHub: [Username](https://github.com/Username)</p>
+    <p> Email: [Username@no.com](mailto:Username@no.com)</p>
 

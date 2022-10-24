@@ -38,7 +38,7 @@ To use the application do the following:
 
  ## Demo
 
- Demonstration of the applications functionality
+![Demo of Application](./assets/readme_gen.gif)
 
 
 
