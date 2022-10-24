@@ -25,7 +25,7 @@ function generateMarkdown(data) {
    ## License
    [${data.license}](https://choosealicense.com/licenses/${data.license.toLowerCase()}/)
    
-   ## Test
+   ## Tests
    ${data.test}
 
    ## Contributing
