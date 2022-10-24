@@ -36,11 +36,22 @@ To use the application do the following:
  5. Copy your new readme into your project!
 
 
+<br>
+
  ## Demo
+ 
+ ### Demonstration of the prompted questions
+<br>
 
-![Demo of Application](./assets/readme_gen.gif)
+  ![Screenshot of questions](./assets/Screenshot1.jpg)
+<br>
 
+### Demonstration of TheREADME.md
+<br>
+ 
+  ![Screenshot of readme file](./assets/Screenshot2.jpg)
 
+<br><br>
 
  ## Sources
   
